@@ -1,9 +1,6 @@
 # Resume
 
-# Pramod Kumar Singh - Data Science Professional
-
-A seasoned data scientist with seven years of hands-on experience across multiple industries, skilled at transforming raw data into actionable insights that drive strategic decisions and fuel business growth.
-
+# Pramod Kumar - Data Science Professional
 📞 (+91) 9036292533  
 📧 [pramodmca54@gmail.com](mailto:pramodmca54@gmail.com)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/pramod-k-8b3a44104/)
@@ -62,7 +59,3 @@ A seasoned data scientist with seven years of hands-on experience across multipl
   Percentage: 75% (2009 - 2012)
 
 ---
-
-## Awards & Recognitions
-- **All India Recognition Award** for Innovation at Citibank
-- **Innovation at Work Award** at Falabella
