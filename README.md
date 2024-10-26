@@ -3,8 +3,9 @@
 # Pramod Kumar - Data Science Professional
 📞 (+91) 9036292533  
 📧 [pramodmca54@gmail.com](mailto:pramodmca54@gmail.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/pramod-k-8b3a44104/)
-
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/pramod-k-8b3a44104/)  
+🔗 [Github Profile](https://github.com/dashboard)  
+🔗 [Medium Profile] (https://medium.com/@nitkians)  
 ---
 
 ## Skills
